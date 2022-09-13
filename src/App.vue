@@ -20,13 +20,6 @@
     },
   };
 
-  // export default{
-  //   data(){
-  //     return{
-  //       contador:200,
-  //     };
-  //   },
-  // };
 </script>
 
 <template>
@@ -43,7 +36,7 @@
   
   <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
- Uriel Marquez Cruz 4°A
+ Michelle Negrellos Fong 4°B
 </button>
 
 
@@ -72,8 +65,3 @@
 
 </style>
 
-
-  body{
-    background-color: #ccc;
-
-  }
